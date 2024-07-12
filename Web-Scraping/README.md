@@ -12,5 +12,5 @@ Consultar Manual de inslatacion
 
 ## realizar un scaneo
 Seguir video tutorial
-- [Pagina oficial](https://www.youtube.com/watch?v=h8KEZJWGxgs)
+- [ejemplo](https://www.youtube.com/watch?v=h8KEZJWGxgs)
 
