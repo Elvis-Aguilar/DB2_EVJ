@@ -15,7 +15,7 @@ Temas visto en el Curso divido en dos secciones.
 - Fail Over.
 
 #### Base de Dato no Relacioneles 
--Introduccion a NoSQL.
+- Introduccion a NoSQL.
 - Teorema CAP.
 - Mongo DB.
 - Consultas basicas y avanzadas de MongoDB.
