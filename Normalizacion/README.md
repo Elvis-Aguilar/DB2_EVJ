@@ -4,7 +4,7 @@ Practica para normalizar una base de datos, con una tabla que contiene los horar
 - Diagrama
 
 
- <img src="/Normalizacion/Normalizaion-tabla-existente.png" title="HTML5" alt="HTML" width="120" height="120"/>&nbsp;
+ <img src="/Normalizacion/Normalizaion-tabla-existente.png" title="HTML5" alt="HTML" width="500" height="250"/>&nbsp;
 
 - Nota: este mismo ejemplo se realiza para sql-Server asi como Mysql.
 
