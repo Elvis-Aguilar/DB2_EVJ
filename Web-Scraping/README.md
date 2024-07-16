@@ -14,3 +14,7 @@ Consultar Manual de inslatacion
 Seguir video tutorial
 - [ejemplo](https://www.youtube.com/watch?v=h8KEZJWGxgs)
 
+## Datos obtenidos del horario de EVJ de ingenieria
+Datos obtenidos del horario de Escuela de vacaciones de Ingenieria de la san carlos, usando programa octoparse datos obtenidos en archivo .xlsx
+
+- [horario](https://usuarios.ingenieria.usac.edu.gt/horarios/vacaciones/1)
